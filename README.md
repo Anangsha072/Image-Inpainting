@@ -8,6 +8,7 @@ By leveraging deep learning techniques such as **contextual attention** and **pe
 **Applications:** Photo restoration, object removal, and advanced image editing.
 ## Project Overflow
 <img width="698" height="519" alt="image" src="https://github.com/user-attachments/assets/d4df8e63-e5b1-497f-9815-19e48c928030" />
+## Result
 
 The following ppt describesw how the image impainting is done
 [Image-impainting-using-GAN-ppt.pdf](https://github.com/user-attachments/files/23955775/Image-impainting-using-GAN-ppt.pdf)
