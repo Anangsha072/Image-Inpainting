@@ -1,4 +1,14 @@
 # Image-Inpainting
+## Project Overview
+
+This project implements **Image Inpainting using Generative Adversarial Networks (GANs)**. It fills missing or corrupted parts of images in a realistic and seamless way. The **generator** predicts the missing regions, while the **discriminator** ensures the inpainted areas look natural.  
+
+By leveraging deep learning techniques such as **contextual attention** and **perceptual loss**, the model preserves textures, structures, and semantics, making the completed images almost indistinguishable from the original.  
+
+**Applications:** Photo restoration, object removal, and advanced image editing.
+## Project Overflow
+<img width="698" height="519" alt="image" src="https://github.com/user-attachments/assets/d4df8e63-e5b1-497f-9815-19e48c928030" />
+
 The following ppt describesw how the image impainting is done
 [Image-impainting-using-GAN-ppt.pdf](https://github.com/user-attachments/files/23955775/Image-impainting-using-GAN-ppt.pdf)
 
